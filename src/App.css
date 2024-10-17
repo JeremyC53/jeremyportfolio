@@ -48,7 +48,7 @@ header.hero .overlay {
 
 header.hero h1 {
   font-size: 3rem;
-  color: white;
+  color: rgb(223, 221, 248);
   text-shadow: 0 0 10px #00FFFF, 0 0 20px #FF00FF;
 }
 
@@ -101,15 +101,15 @@ header.hero .btn:hover {
 }
 
 .about .highlight-text span:nth-child(1) {
-  color: #FFD700; /* Yellow for "Learn." */
+  color: #FBFF12; /* Yellow for "Learn." */
 }
 
 .about .highlight-text span:nth-child(2) {
-  color: #39FF14; /* Pink for "Challenge." */
+  color: #FF7600; /* Pink for "Challenge." */
 }
 
 .about .highlight-text span:nth-child(3) {
-  color: #00BFFF; /* Cyan for "Create." */
+  color: #2b60cb; /* Cyan for "Create." */
 }
 
 .about p {
@@ -117,6 +117,7 @@ header.hero .btn:hover {
   line-height: 1.5;
   max-width: 700px;
   margin: 0 auto;
+  color: #c697f0;
 }
 
 /* Projects section */
