@@ -73,6 +73,9 @@ header.hero .btn {
   transition: all 0.3s ease-in-out;
 }
 
+header.hero .headhead {
+  text-align: center;
+}
 header.hero .btn:hover {
   background-color: #FF00FF;
   color: #0D0D0D;
