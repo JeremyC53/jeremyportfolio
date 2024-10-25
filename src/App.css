@@ -75,6 +75,8 @@ header.hero .btn {
 
 header.hero .headhead {
   text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 header.hero .btn:hover {
   background-color: #FF00FF;
