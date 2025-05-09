@@ -35,9 +35,9 @@ const projects = [
   },
   {
     title: 'Body Motion Capture for Sport',
-    description: 'Coming soon: My third-year project using IMUs and ESP32s to capture athletes\' motion. The app will compare this data with user movements to provide personalised feedback, improving training effectiveness.',
-    link: '/',
-    image: './stickman.png',
+    description: 'My third-year project uses IMUs and ESP32s to capture athletes\' motion. The app compares this data with user movements to provide personalised feedback, improving training effectiveness.',
+    link: 'https://github.com/JeremyC53/fyp',
+    image: './programpic.png',
   },
 ];
 
