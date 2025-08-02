@@ -61,7 +61,7 @@ function App() {
       <header className="hero" style={{ backgroundImage: "url('/banner2.jpg')" }}>
         <div className="overlay">
           <h1>Jeremy Chan</h1>
-          <p className = "headhead">Final year colourblind EEE undergrad with an endless hunger to learn</p>
+          <p className = "headhead">A colourblind EEE graduate with an endless hunger to learn</p>
           <a href="#contact" className="btn">Contact Me</a>
         </div>
       </header>
