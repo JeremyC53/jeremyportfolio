@@ -72,8 +72,8 @@ function App() {
           <span>Learn.</span> <span>Challenge.</span> <span>Create.</span>
           <p>That's me in a nutshell.</p>
         </div>
-        <p>I'm a final year Electronics and Electrical Engineering undergraduate at UCL, with predicted first-class honours, seeking a role starting in September 2025.</p>
-        <p>I'm interested in robotics, neuromorphic computing, circuit design, and software development. My recent experiences include working as an instrumentation and data analytics intern at Procter & Gamble Gillette, a summer studentship at UCL, serving as Vice President of UCL's EEE Society, and being the Outreach Manager for the Robotics Society.</p>
+        <p>I'm an Electronics and Electrical Engineering graduate at UCL, with First-Class Honours.</p>
+        <p>I'm interested in robotics, neuromorphic computing, circuit design, and software development. My recent experiences include working as a quantitative research analyst at Intropic, an instrumentation and data analytics intern at Procter & Gamble Gillette, a summer studentship at UCL, serving as Vice President of UCL's EEE Society, and being the Outreach Manager for the Robotics Society.</p>
         <p>In my free time, I’m always up for a game of chess, enjoy playing squash, and love oil painting.</p>
       </section>
 
