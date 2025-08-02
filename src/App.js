@@ -109,7 +109,9 @@ function App() {
         <h2>Skills</h2>
         <p>Learning Agility</p>
         <p>Embedded Systems Programming</p>
-        <p>Front-end and Back-end Devlopment</p>
+        <p>Front-end and Back-end Development</p>
+        <p>Python Related Libraries (Pandas, NumPy, Typer, Cursor)</p>
+        <p>Cloud-Based Architectures (AWS S3, EC2)</p>
         <p>CAD Design</p>
         <p>Team Leadership</p>
         <p>Problem Solving</p>
